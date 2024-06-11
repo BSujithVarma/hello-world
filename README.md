@@ -1,2 +1,5 @@
-# hello-world
-base code in C
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+}
